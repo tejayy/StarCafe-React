@@ -1,4 +1,5 @@
-![Uploading CAFE.PNG…]()
+
+![CAFE](https://github.com/tejayy/StarCafe-React/assets/117623822/321fdef4-5d01-4ddd-963f-a58eca15291b)
 
 
 # React + Vite
