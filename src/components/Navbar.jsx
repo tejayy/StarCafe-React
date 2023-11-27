@@ -24,7 +24,7 @@ const Navbar = () => {
             <span>
               <SiCoffeescript className="group relative inline-block cursor-pointer hover:text-brightColor" />
             </span>
-            <h1 className=" text-xl font-semibold">CafePusle</h1>
+            <h1 className=" text-xl font-semibold">StarCafe</h1>
           </div>
 
           <nav className="hidden md:flex flex-row items-center text-lg font-medium gap-8">
